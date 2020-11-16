@@ -17,3 +17,5 @@ The command `x` to delete a character `d` to delete a word
 The command `dw` has two components an operation and a motion `d` is for an operation that is delete operation and `w` is forward motion so when you press `w` then your cursor jumps from word to word so `w` represents a motion and accounts to a word.
 All the motion that you have seen so far can be used with a command for example the motion `k` a `l` and all the motion that moves forward backward left and right so if you press `bl` then it will delete the right character. The command `0` takes to from point to the first character of the line so if you use `d0` then it will delete all the characters and words between your current position in the line to the beginning of the line. 
 
+
+... to be continued.
